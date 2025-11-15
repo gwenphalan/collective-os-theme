@@ -106,8 +106,8 @@ body {
     /* off: default, on: remove rounded corners from panels */
 
     /* styling options */
-    --custom-spotify-bar: on;
-    /* off: default, on: custom text-like spotify progress bar */
+    --custom-cider-bar: on;
+    /* off: default, on: custom text-like cider progress bar */
     --ascii-titles: on;
     /* off: default, on: use ascii font for titles at the start of a channel */
     --ascii-loader: system24;
