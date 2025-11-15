@@ -6,7 +6,7 @@
     "alacritty": {
       "colors": {
         "bright": {
-          "black": "#003220",
+          "black": "#2a7a65",
           "blue": "#006540",
           "cyan": "#80d4b5",
           "green": "#00a86b",
@@ -20,7 +20,7 @@
           "text": "#00110b"
         },
         "normal": {
-          "black": "#00110b",
+          "black": "#114b3b",
           "blue": "#006540",
           "cyan": "#80d4b5",
           "green": "#00a86b",
@@ -31,7 +31,7 @@
         },
         "primary": {
           "background": "#00110b",
-          "dim_foreground": "#003220",
+          "dim_foreground": "#2a7a65",
           "foreground": "#e6f6f0"
         },
         "selection": {
@@ -144,7 +144,7 @@
     "ghostty": {
       "colors": {
         "bright": {
-          "black": "#003220",
+          "black": "#2a7a65",
           "blue": "#006540",
           "cyan": "#80d4b5",
           "green": "#00a86b",
@@ -158,7 +158,7 @@
           "text": "#00110b"
         },
         "normal": {
-          "black": "#00110b",
+          "black": "#114b3b",
           "blue": "#006540",
           "cyan": "#80d4b5",
           "green": "#00a86b",
@@ -207,7 +207,7 @@
     "kitty": {
       "colors": {
         "bright": {
-          "black": "#003220",
+          "black": "#2a7a65",
           "blue": "#006540",
           "cyan": "#80d4b5",
           "green": "#00a86b",
@@ -221,6 +221,7 @@
           "text": "#00110b"
         },
         "normal": {
+          "black": "#114b3b",
           "blue": "#006540",
           "cyan": "#80d4b5",
           "green": "#00a86b",
